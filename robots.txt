@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://de3biggetjes.nl/sitemap.xml
