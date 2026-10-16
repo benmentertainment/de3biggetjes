@@ -9,10 +9,10 @@ Koppel `de3biggetjes.nl` als hoofddomein en `www.de3biggetjes.nl` als extra dome
 
 ## Structuur
 
-- `index.html`: de hele site (secties: verhaal, cast, muziek, quiz, herberg, foto's, team, producties, terugblik, FAQ en contact)
+- `index.html`: de hele site (secties: verhaal, cast, foto's, team, producties, terugblik, FAQ en contact)
 - `privacyverklaring.html` en `404.html`: losse pagina's in dezelfde stijl
 - `css/site.css`: alle styling, inclusief de vuurvliegjes-achtergrond (`.vliegjes`)
-- `_astro/*.js`: interactie (cast-pop-ups, muziekfilter, quiz, navigatie, delen)
+- `_astro/*.js`: interactie (cast-pop-ups, fotogalerij, navigatie, delen)
 - `img/`, `fonts/`: afbeeldingen en lettertypen
 
 Het contactformulier is een Tally-embed (formulier `nPGaxB`).
