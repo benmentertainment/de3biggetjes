@@ -3,7 +3,8 @@
   "redirects": [
     { "source": "/(.*)", "has": [{ "type": "host", "value": "www.de3biggetjes.nl" }], "destination": "https://de3biggetjes.nl/$1", "permanent": true },
     { "source": "/privacyverklaring/", "destination": "/privacyverklaring", "permanent": true },
-    { "source": "/contact/?", "destination": "/#contact", "permanent": true }
+    { "source": "/contact", "destination": "/#contact", "permanent": true },
+    { "source": "/contact/", "destination": "/#contact", "permanent": true }
   ],
   "headers": [
     { "source": "/_astro/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }] },
